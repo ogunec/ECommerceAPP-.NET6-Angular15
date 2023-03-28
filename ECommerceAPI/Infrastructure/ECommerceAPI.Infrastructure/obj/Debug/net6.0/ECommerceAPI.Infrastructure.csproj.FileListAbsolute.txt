@@ -1,0 +1,17 @@
+C:\Users\ogune\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Infrastructure\obj\Debug\net6.0\ECommerceAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ogune\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Infrastructure\obj\Debug\net6.0\ECommerceAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ogune\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Infrastructure\obj\Debug\net6.0\ECommerceAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ogune\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Infrastructure\obj\Debug\net6.0\ECommerceAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\ogune\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Infrastructure\obj\Debug\net6.0\ECommerceAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ogune\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Infrastructure\bin\Debug\net6.0\ECommerceAPI.Infrastructure.deps.json
+C:\Users\ogune\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Infrastructure\bin\Debug\net6.0\ECommerceAPI.Infrastructure.dll
+C:\Users\ogune\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Infrastructure\bin\Debug\net6.0\ECommerceAPI.Infrastructure.pdb
+C:\Users\ogune\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Infrastructure\bin\Debug\net6.0\ECommerceAPI.Application.dll
+C:\Users\ogune\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Infrastructure\bin\Debug\net6.0\ECommerceAPI.Domain.dll
+C:\Users\ogune\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Infrastructure\bin\Debug\net6.0\ECommerceAPI.Application.pdb
+C:\Users\ogune\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Infrastructure\bin\Debug\net6.0\ECommerceAPI.Domain.pdb
+C:\Users\ogune\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Infrastructure\obj\Debug\net6.0\ECommerceAPI.Infrastructure.csproj.CopyComplete
+C:\Users\ogune\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Infrastructure\obj\Debug\net6.0\ECommerceAPI.Infrastructure.dll
+C:\Users\ogune\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Infrastructure\obj\Debug\net6.0\refint\ECommerceAPI.Infrastructure.dll
+C:\Users\ogune\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Infrastructure\obj\Debug\net6.0\ECommerceAPI.Infrastructure.pdb
+C:\Users\ogune\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Infrastructure\obj\Debug\net6.0\ref\ECommerceAPI.Infrastructure.dll

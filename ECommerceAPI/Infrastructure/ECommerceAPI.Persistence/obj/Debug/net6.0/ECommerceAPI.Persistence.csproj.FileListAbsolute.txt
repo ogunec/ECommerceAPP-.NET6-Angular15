@@ -1,0 +1,17 @@
+C:\Users\ogune\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Persistence\obj\Debug\net6.0\ECommerceAPI.Persistence.csproj.AssemblyReference.cache
+C:\Users\ogune\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Persistence\obj\Debug\net6.0\ECommerceAPI.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ogune\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Persistence\obj\Debug\net6.0\ECommerceAPI.Persistence.AssemblyInfoInputs.cache
+C:\Users\ogune\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Persistence\obj\Debug\net6.0\ECommerceAPI.Persistence.AssemblyInfo.cs
+C:\Users\ogune\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Persistence\obj\Debug\net6.0\ECommerceAPI.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ogune\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Persistence\bin\Debug\net6.0\ECommerceAPI.Persistence.deps.json
+C:\Users\ogune\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Persistence\bin\Debug\net6.0\ECommerceAPI.Persistence.dll
+C:\Users\ogune\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Persistence\bin\Debug\net6.0\ECommerceAPI.Persistence.pdb
+C:\Users\ogune\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Persistence\bin\Debug\net6.0\ECommerceAPI.Application.dll
+C:\Users\ogune\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Persistence\bin\Debug\net6.0\ECommerceAPI.Domain.dll
+C:\Users\ogune\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Persistence\bin\Debug\net6.0\ECommerceAPI.Application.pdb
+C:\Users\ogune\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Persistence\bin\Debug\net6.0\ECommerceAPI.Domain.pdb
+C:\Users\ogune\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Persistence\obj\Debug\net6.0\ECommerceAPI.Persistence.csproj.CopyComplete
+C:\Users\ogune\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Persistence\obj\Debug\net6.0\ECommerceAPI.Persistence.dll
+C:\Users\ogune\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Persistence\obj\Debug\net6.0\refint\ECommerceAPI.Persistence.dll
+C:\Users\ogune\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Persistence\obj\Debug\net6.0\ECommerceAPI.Persistence.pdb
+C:\Users\ogune\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Persistence\obj\Debug\net6.0\ref\ECommerceAPI.Persistence.dll
